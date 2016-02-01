@@ -1,0 +1,27 @@
+﻿{
+    "$schema": "http://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "hostingPlanName": {
+            "value": ""
+        },
+        "administratorLogin": {
+            "value": ""
+        },
+        "databaseName": {
+            "value": "memberdb"
+        },
+        "sku": {
+            "value": "Standard"
+        },
+        "administratorLoginPassword": {
+            "value": ""
+        },
+        "msdeployPackageFolder": {
+            "value": "armTestWebsite"
+        },
+        "msdeployPackageFileName": {
+            "value": "package.zip"
+        }
+    }
+}

@@ -1,0 +1,6 @@
+Name,Description,DisplayName,SamAccountName,GroupScope
+Finance,Finance,Finance,Finance,DomainLocal
+Engineering,Engineering,Engineering,Engineering,DomainLocal
+Operations,Operations,Operations,Operations,Global
+IT,IT,IT,IT,Universal
+Consulting,Consulting,Consulting,Consulting,Universal
